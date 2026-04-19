@@ -42,4 +42,10 @@ Master of Science (M.Sc.) in Software Engineering with a focus on building secur
 I don't just write code; I architect systems with a **Security-first** and **Research-backed** mindset. Currently mentoring the next generation of developers while enforcing **Clean Code** and **TDD** standards to build production-ready solutions.
 
 ---
-*Built with passion and technical precision.*
+
+### **📫 Connect with Me**
+
+**LinkedIn:** [linkedin.com/in/marwasakr](https://www.linkedin.com/in/marwasakr/) 
+**Email:** [Marwasakr703@gmail.com](mailto:Marwasakr703@gmail.com) 
+**Portfolio:** [github.com/Marwa-sakr](https://github.com/Marwa-sakr) 
+
