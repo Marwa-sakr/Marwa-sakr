@@ -1,27 +1,28 @@
 
 
 # Hi, I'm Marwa Maher Taha Sakr 👋
+
 ### Mid-level Software Engineer | .NET Specialist
 
-Highly organized Software Engineer with a focus on building secure, scalable, and efficient backend solutions. Passionate about clean code, architecture, and solving complex technical challenges.
+Master of Science (M.Sc.) in Software Engineering with a focus on building secure, high-availability backend solutions. I bridge the gap between advanced academic research (Fuzzy Logic & Software Effort Estimation) and scalable industrial applications.
 
 ---
+🛠️ Technical ArsenalBack-End: .NET 9, ASP.NET Core Web API, C#, EF Core.Architecture: Clean Architecture, SOLID, Design Patterns (Strategy, Factory).Distributed Systems: RabbitMQ (Event-Driven, DLQ, Message Persistence).Security: Azure Key Vault, AES-256 GCM, PII Masking.Data: SQL Server (Optimization, Transaction Management), OLTP/OLAP.
 
-## 🚀 Featured Project: SpendWise
-A comprehensive financial tracking system designed for secure transaction management.
-* **Smart Parsing:** Automated extraction of financial data from bank SMS using advanced Regex patterns.
-* **Security First:** End-to-end data protection using AES-256 encryption.
-* **Full Integration:** Professional SDLC workflow using Jira for task tracking and GitHub for version control.
+🌟 Featured Project: SpendWise
 
-## 🛠️ Technical Skills
-* **Languages:** C#, SQL, Relational Algebra.
-* **Frameworks:** .NET Core, Web API, xUnit (Unit Testing).
-* **Databases:** SQL Server, Data Warehousing (OLTP/OLAP).
-* **Tools:** Jira, Git/GitHub, VS Code.
+Enterprise Financial Middleware for Secure Transaction Management 
+Reliability: Engineered a decoupled pipeline using RabbitMQ with Manual Acknowledgments to ensure 100% data durability.
+Scalability: Implemented the Strategy Pattern to dynamically resolve diverse banking data formats.Zero-Trust Security: Integrated Azure Key Vault and AES-256 encryption for sensitive financial records.
+Observability: Real-time monitoring using Prometheus & Grafana for bottleneck identification.
 
-## 📈 GitHub Stats
-![Marwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marwa-sakr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marwa-sakr&layout=compact&theme=radical)
 
----
-📫 **How to reach me:** marwasakr703@gmail.com
+🎓 Academic Excellence 
+M.Sc. in Software Engineering | Cairo University.
+Postgraduate Diploma in CS | Cairo University | GPA 3.41.
+Graduation Project: Awarded Grade A+ (97%) for a 2-year intensive technical implementation.
+
+
+📈 Why Me?
+I don't just write code; I architect systems with a Security-first and Research-backed mindset. 
+Currently mentoring the next generation of developers while enforcing Clean Code and TDD standards.
