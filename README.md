@@ -2,7 +2,7 @@
 
 ### **Mid-Level Software Engineer | .NET Specialist**
 
-Master of Science (M.Sc.) in Software Engineering with a focus on building secure, high-availability backend solutions. I bridge the gap between advanced academic research—including **Fuzzy Logic** and **Software Effort Estimation**—and scalable industrial applications.
+Master of Science (M.Sc.) in Software Engineering with a focus on building secure, high availability backend solutions. I bridge the gap between advanced academic research including **Fuzzy Logic** and **Software Effort Estimation** and scalable industrial applications.
 
 ---
 
