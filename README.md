@@ -45,7 +45,7 @@ I don't just write code; I architect systems with a **Security-first** and **Res
 
 ### **📫 Connect with Me**
 
-**LinkedIn:** [linkedin.com/in/marwasakr](https://www.linkedin.com/in/marwasakr/) 
-**Email:** [Marwasakr703@gmail.com](mailto:Marwasakr703@gmail.com) 
-**Portfolio:** [github.com/Marwa-sakr](https://github.com/Marwa-sakr) 
+* **LinkedIn:** [linkedin.com/in/marwasakr](https://www.linkedin.com/in/marwasakr/) 
+* **Email:** [Marwasakr703@gmail.com](mailto:Marwasakr703@gmail.com) 
+* **Portfolio:** [github.com/Marwa-sakr](https://github.com/Marwa-sakr) 
 
